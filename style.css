@@ -1,0 +1,46 @@
+.flexcolumn {
+    position: absolute;
+    bottom: 0;
+    width: auto;
+}
+.btn-outline-secondary{
+    width: 100%;
+}
+.dropdown-divider{
+    color: white;
+}
+.maincontainer{
+    background-color: #343541;
+}
+.bottomContent ul li:hover{
+    color: white;
+    background-color: #41424f;
+    border-radius: 10px;
+}
+.navbarblock{
+    display: block;
+}
+.navbarblock li{
+    background-color: rgb(108, 117, 125);
+    margin-bottom: 10px;
+}
+.chatgptctn{
+   margin-top: 160px;
+}
+.rowbottom{
+    margin-top: 80px;
+}
+.smallpara{
+    font-size: small;
+}
+.bgsecondary{
+    background-color: #41424f;
+    border-radius: 10px;
+}
+.hovereft :hover{
+    background-color: aquamarine;
+    color: black;
+}
+.italic{
+   font-style: italic ;
+}
